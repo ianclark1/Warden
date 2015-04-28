@@ -1,0 +1,13 @@
+<challenges application="CompanyApp">
+
+  <challenge id="ModifyTheme">
+
+    <allowedPrivileges viewstate="default">
+      <privilege>APP_OWNER</privilege>
+      <privilege>TRAINER</privilege>
+      <privilege>APP_MANAGER</privilege>
+    </allowedPrivileges>
+
+  </challenge>
+
+</challenges>
